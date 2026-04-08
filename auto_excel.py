@@ -16,8 +16,8 @@ df = df.drop_duplicates()
 df = df.sort_values(by="Nom")
 
 # Validation Email
-def check_Email(x):
-    if isinstance(x, str) and "@" in x and "."  in x:
+def check_Email(x: str)-> str:
+    if isinstance(x, str) and "@" in x and "." in x:
         return "OK"
     return "Erreur"
 
