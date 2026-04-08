@@ -32,5 +32,5 @@ Send me your file and I’ll test it for free.
 
 ## 📸 Demo
 
-![Input](input.png)
+![Input](https://github.com/widy05/data-cleaning-script/blob/main/IMG_2235.jpeg.)_
 ![Output](output.png)
