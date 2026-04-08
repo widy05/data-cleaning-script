@@ -29,3 +29,8 @@ This script saves time and avoids mistakes.
 ## 📩 Work with me
 I can clean and automate your data quickly.
 Send me your file and I’ll test it for free.
+
+## 📸 Demo
+
+![Input](input.png)
+![Output](output.png)
